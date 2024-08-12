@@ -6,3 +6,4 @@
 
 4º git push
 
+5º git status (opcional)
