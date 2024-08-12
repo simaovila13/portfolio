@@ -1,0 +1,8 @@
+1º cd C:\Users\Simao\Documents\curriculo
+
+2º git add .
+
+3º git commit -m "text"
+
+4º git push
+
