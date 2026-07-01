@@ -116,7 +116,7 @@ img.avatar {
 @media (min-width: 48em) {
   .grid-sizer,
   .grid-item {
-    width: 50%;
+    width: 33%;
   }
   .grid-item {
     float: left;
